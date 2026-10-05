@@ -31,8 +31,6 @@ else:
 1. a
 2. b
 3. c
-4. d
-5. e
 
 > Ide jön az idézet
 > 
@@ -41,3 +39,8 @@ else:
 > Harmadik sora
 
 ![alt text](2026-05-19_18-00-00.jpg)
+
+
+Ez a mondatban __fontos__ szó van, és ez a mondatban *dőlt* szó van.
+
+Kattints [ide](https://www.google.com) a Google kereséshez.
